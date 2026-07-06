@@ -26,6 +26,6 @@ I build systems where the hard part is real: transactional integrity, real-time 
 ### Reach me
 
 - Email — dilandelvallemijangos@gmail.com
-- LinkedIn — *(coming soon)*
+- LinkedIn — [linkedin.com/in/dilan-del-valle](https://www.linkedin.com/in/dilan-del-valle)
 
 **2026 focus:** open to my first full-stack / AI-automation role — remote, CDMX, or Oaxaca.
